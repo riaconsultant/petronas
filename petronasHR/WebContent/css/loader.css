@@ -1,0 +1,73 @@
+@CHARSET "UTF-8";
+/* Start Preloader screen */
+#ajaxloader {
+	background:url(../img/loader.gif) no-repeat center center;
+	position: fixed;
+	z-index: 1000;
+	background-color: rgba(42, 42, 42, 0.2);
+	width: 100%;
+	height: 100%;
+}
+body{
+	margin:0px;
+	background-color: white !important;
+}
+.loadingBackground {
+	background-color: white;
+	left: 0px;
+	padding: 58px 0px 0px 0px;
+	position: absolute;
+	top: 0px;
+	z-index: 1000;
+	width: 100%;
+	height: 100%;
+}
+.CenterHVDiv {
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	height: 1px;
+}
+.loadingScreen {
+	height: 300px;
+	position: absolute;
+	width: 495px;
+	z-index: 1100;
+	background-image: url(../img/petronas.png);
+	filter: alpha(opacity=90);
+	background-repeat: no-repeat;
+	top: -180px;
+	left: 50%;
+	margin-left: -258px;
+	/*border: 1px solid #ccc;*/
+	box-shadow: 1px 1px 1px 1px #ccc;
+}
+.screenLoadingAnimation {
+	background-image: url(../img/ScreenLoadingAniLarge.gif);
+	background-repeat: no-repeat;
+	height: 9px;
+	left: 30px;
+	position: absolute;
+	top: 250px;
+	width: 445px;
+}
+.processText {
+	color: #2E2E2E;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	left: 10px;
+	position: absolute;
+	top: 225px;
+	display: block;
+}
+.copyrightText {
+	color: #666666;
+	font-family: Arial;
+	font-size: 10px;
+	left: 10px;
+	position: absolute;
+	top: 270px;
+	display: block;
+}
+/* End Preloader screen */

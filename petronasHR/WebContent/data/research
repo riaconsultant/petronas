@@ -1,0 +1,143 @@
+HR T-Codes
+
+Master Data  
+PA10 - Personnel file 
+PA20 - Display HR Master Data 
+PA30 - Maintain HR Master Data -- Can Use 
+PA40 - Personnel Events 
+PA41 - Change Hiring Data 
+PA42 - Fast Data Entry for Events 
+PRMD - Maintain HR Master Data 
+PRMF - Travel Expenses : Feature TRVFD 
+PRML - Set Country Grouping via Popup 
+PRMM - Personnel Events 
+PRMO - Travel Expenses : Feature TRVCO 
+PRMP - Travel Expenses : Feature TRVPA 
+PRMS - Display HR Master Data 
+PRMT - Update Match code 
+PS03 - Info type Overview 
+PS04 - Individual Maintenance of Info types
+
+Time Management  
+PA51 - Display Time Data 
+PA53 - Display Time Data 
+PA61 - Maintain Time Data 
+PA62 - List Entry of Additional Data 
+PA63 - Maintain Time Data 
+PA64 - Calendar Entry 
+PA70 - Fast Data Entry 
+PA71 - Fast Entry of Time Data 
+PBAB - Maintain Vacancy  assignments 
+PT01 - Create Work Schedule 
+PT02 - Change Work Schedule 
+PT03 - Display Work Schedule
+
+Payroll 
+PC00 - Run Payroll 
+PC10 - Payroll menu USA 
+PE00 - Starts Transactions PE01 PE02 PE03 
+PE01 - Schemas 
+PE02 - Calculation Rules 
+PE03 - Features 
+PE04 - Create functions and Operations 
+PE51 - HR form editor 
+PRCA - Payroll Calendar 
+PRCT - Current Settings 
+PRCU - Printing checks USA 
+PRD1 - Create DME 
+SM31 - Maintain Table 
+SM12 - Locked Secessions 
+TSTC - Table Look up 
+SPRO - IMG 
+SE16 - Data Browser (Table Reports) 
+PP03 - PD Tables 
+PPOM - Change Org Unit 
+PO13 - Maintain Positions 
+PO03 - Maintain Jobs
+
+Benefits 
+PA85 - Benefits - Call RPLBEN11 
+PA86 - Benefits - Call RPLBEN07 
+PA87 - Benefits - Call RPLBEN09 
+PA89 - COBRA Administration 
+PA90 - Benefits Enrollment 
+PA91 - Benefits - Forms 
+PA92 - Benefits Tables - Maintain 
+PA93 - Benefits Tables - Display 
+PA94 - Benefits - Access Reporting Tree 
+PA95 - Benefits IMG - Jump to Views 
+PA96 - Benefits reporting 
+PA97 - Salary Administration - Matrix 
+PA98 - Salary Administration 
+PA99 - Compensation Admin - rel. Changes 
+PACP - HR-CH : Pension fund, interface
+
+General Reporting 
+PM00 - Menu for HR Reports 
+PM01 - Dialogs in HR - Create Custom info types 
+PRFO - Standard Form 
+PSVT - Dynamic Tools Menu 
+PAR1 - Flexible Employee Data 
+PAR2 - Employee List
+
+Organizational Management 
+PPOM - Change org Unit 
+PO03 - Maintain Jobs 
+P013 - Maintain Position 
+PO10 - Maintain Organizational Unit 
+PP01 - Maintain Plan Data (menu-guided) 
+PP02 - Maintain Plan Data (Open) 
+PP03 - Maintain Plan Data (Event-guided) 
+PP05 - Number Ranges 
+PP06 - Number Ranges Maintenance HR Data 
+PP07 - Tasks/Descriptions 
+PP69 - Choose Text for Organizational Unit 
+PP90 - Setup Organization 
+PP01 - Change Cost Center Assignment 
+PP02 - Display Cost Center Assignment 
+PP03 - Change Reporting Structure 
+PP04 - Display Reporting Structure 
+PP05 - Change Object indicators (O/S) 
+PP06 - Change Object indicators OS 
+PPOA - Display Menu Interface (with dyn.) 
+PPOC - Create Organizational Unit 
+PPOM - Maintain Organizational Plan 
+PPOS - Display Organizational Plan 
+PQ01 - Events for Work Center 
+PQ02 - Events for Training Program 
+PQ03 - Events for Job 
+PQ04 - Events for Business Event Type 
+PQ06 - Local Events 
+PQ07 - Resource Events 
+PQ08 - Events for External Person 
+PQ09 - Events for Business Event Group 
+PQ10 - Events for Organizational Unit 
+PQ11 - Events for Qualification 
+PQ12 - Resource Type Events 
+PQ13 - Events for Position 
+PQ14 - Events for Task 
+PQ15 - Events for Company 
+PSO5 - PD : Administration Tool 
+PSOA - Work Center Reporting 
+PSOC - Job Reporting 
+PSOG - Org Mgmt General Reporting 
+PSO1 - Tools Integration PA-PD 
+PSOO - Organizational Unit Reporting 
+PSOS - Position Reporting 
+PSOT - Task Reporting
+
+Recruitment 
+PB10 - Initial Entry of applicant master data 
+PB20 - Display applicant master data 
+PB30 - Maintain applicant master data 
+PB40 - Applicant events 
+PB50 - Display applicant actions 
+PB60 - Maintain Applicant Actions 
+PB80 - Evaluate Vacancies 
+PBA0 - Evaluate Advertisements 
+PBA1 - Applicant Index 
+PBA2 - List of applications 
+PBA3 - Applicant vacancy assignment list 
+PBA4 - Receipt of application
+
+
